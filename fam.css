@@ -45,13 +45,11 @@ p {
     border-width: 10px;
     border-color: teal;
     border-style: solid;
+    width: 660px;
 }
 
 div {
     font-size: x-large;
-    border-width: 3px;
-    border-color: black;
-    padding: 10px;
 }
 
 .colored-strike {
