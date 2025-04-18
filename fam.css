@@ -45,7 +45,8 @@ p {
     border-width: 10px;
     border-color: teal;
     border-style: solid;
-    width: 660px;
+    width: 700px;
+    height: 600px
 }
 
 div {
