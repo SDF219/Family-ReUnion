@@ -42,6 +42,7 @@ p {
 }
 
 #fampic {
+    width: 680px;
     border-width: 10px;
     border-color: teal;
     border-style: solid;
