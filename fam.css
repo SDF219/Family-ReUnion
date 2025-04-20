@@ -24,8 +24,7 @@ h2 {
 }
 
 .hostpic {
-    width: 200px;
-    height: 200px;
+    width: 20%;
     border-style: groove;
     border-width: 5px;
     border-color: aliceblue;
